@@ -1,10 +1,6 @@
 ## What's this?
-[![NPM version][npm-image]][npm-url]
-[![Dependency Status][david-image]][david-url]
-[![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
 
-A plugin that enables [ASPAX](http://aspax.github.io) to handle [LESS](http://lesscss.org) files.
+A plugin that enables [ASPAX](http://aspax.github.io) to handle [SASS](http://lesscss.org) files.
 
 ## Installation
 Type this in the folder where you're running ASPAX:

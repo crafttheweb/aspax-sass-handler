@@ -1,35 +1,27 @@
 {
-  "name": "aspax-less-handler",
+  "name": "aspax-sass-handler",
   "version": "0.9.8",
-  "description": "Plugin enabling ASPAX to handle LESS files.",
+  "description": "Plugin enabling ASPAX to handle SASS files.",
   "keywords": [
     "aspax",
-    "less",
+    "sass",
     "css",
     "compilation"
   ],
   "dependencies": {
-    "iced-coffee-script": "^1.8.0-d",
-    "less": "^2.5.0"
+    "node-sass": "3.0.0"
   },
   "engines": {
     "node": ">=0.8.16"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/icflorescu/aspax-less-handler.git"
+    "url": "git://github.com/crafttheweb/aspax-sass-handler.git"
     },
-  "bugs": {
-    "url": "https://github.com/icflorescu/aspax-less-handler/issues"
-  },
   "author": {
-    "name": "Ionut-Cristian Florescu",
-    "email": "ionut.florescu@gmail.com",
-    "url": "https://coderwall.com/icflorescu"
+    "name": "Darren Wood",
+    "email": "darren@thefold.co.nz",
+    "url": "http://www.thefold.co.nz"
   },
-  "contributors": [{
-    "name": "Ionut-Cristian Florescu",
-    "email": "ionut.florescu@gmail.com"
-  }],
   "license": "MIT"
 }
