@@ -1,5 +1,5 @@
 {
-  "name": "aspax-sass-handler",
+  "name": "aspax-scss-handler",
   "version": "0.9.8",
   "description": "Plugin enabling ASPAX to handle SASS files.",
   "keywords": [

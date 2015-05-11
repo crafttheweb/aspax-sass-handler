@@ -5,7 +5,7 @@ fs = require('fs');
 
 path = require('path');
 
-sass = require('sass');
+sass = require('node-sass');
 
 regex = /@import\s+['"]([^'"]+)/gi;
 
